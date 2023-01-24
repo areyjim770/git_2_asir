@@ -31,7 +31,7 @@ git merge
 
 git branch -D *nombre_rama*
 
-
+Estos son todos los comandos de git utilizados.
 
 | NOMBRE | GITHUB |
 | -------- | -------- |
