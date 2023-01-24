@@ -33,6 +33,7 @@ git branch -D *nombre_rama*
 
 Estos son todos los comandos de git utilizados.
 
+Esta es una tabla del github de mis compañeros:
 | NOMBRE | GITHUB |
 | -------- | -------- |
 | Nacho | [Enlace a github](https://github.com/jrodrob861/git_2_asir) |
