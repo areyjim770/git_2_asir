@@ -19,6 +19,19 @@ git log
 
 git add --tag
 
+git branch *nombre rama*
+
+git branch
+
+git checkout *v0.2*
+
+git push **--set-upstream origin v0.2**
+
+git merge
+
+git branch -D *nombre_rama*
+
+
 
 | NOMBRE | GITHUB |
 | -------- | -------- |
